@@ -1,0 +1,5 @@
+{
+  "version": "1.7.2",
+  "download_url": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/RodinaMarket.lua",
+  "changelog": "Исправлена ошибка загрузки обновлений, улучшена стабильность."
+}
