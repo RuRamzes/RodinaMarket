@@ -1,9 +1,0 @@
-{
-  "latest": "1.7.2",
-  "updateurl": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/RodinaMarket.lua",
-  "changelog": [
-    "Добавлена система автоматических обновлений",
-    "Переход на JSON файлы конфигурации",
-    "Улучшена стабильность работы"
-  ]
-}
