@@ -1,5 +1,5 @@
 {
   "version": "1.4",
-  "url": "https://raw.githubusercontent.com/MTGMODS/rmarket/main/RMarket_Mobile.lua",
+  "url": "https://github.com/RuRamzes/RodinaMarket/raw/refs/heads/main/RMarket_Mobile.lua",
   "text": "Оптимизирована вкладка Маркет\nИсправлены визуальные баги во вкладке Пиар\nДобавлена удобная система автообновлений\nМелкие исправления и улучшения стабильности"
 }
