@@ -1,6 +1,6 @@
 {
-  "latest": "5.26",
-  "latest_dll": "1.0",
+  "latest": "5.27",
+  "latest_dll": "1.1",
   "updateurl": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/RMarket.lua",
   "dll_updateurl": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/rm_secure.dll",
   "telemetry": null
