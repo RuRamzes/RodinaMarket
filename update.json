@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
+  "version": "1.5",
   "url": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/RMarket_Mobile.lua",
-  "so_version": "1.1",
+  "so_version": "1.2",
   "so_url": "https://raw.githubusercontent.com/RuRamzes/RodinaMarket/main/librm_net.so"
 }
